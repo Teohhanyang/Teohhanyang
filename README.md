@@ -16,10 +16,11 @@ Here are some ideas to get you started:
 -->
 
 Hello, I'm Han Yang 😄. Current Year 2 Mathematics and Data Science student from the University of Nottingham Malaysia. My current interests are:
-- Data analysis with R and Python 
+- Data analysis with R and Python
+- Data science
 - Generating reports 
 - Statistics and probability
-- Math 
+- Math
 
 ## Projects  
 Mortality and Pollution Analysis with R https://github.com/Teohhanyang/Mortality-and-Pollution-Analysis.git  
