@@ -1,4 +1,4 @@
-## Hi there 👋
+## Greetings 👋
 
 <!--
 **Teohhanyang/Teohhanyang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hello, I'm Han Yang 😄. Current Year 2 Mathematics and Data Science student from the University of Nottingham Malaysia. My current interests are:
+- Data analysis with R and Python 
+- Generating reports 
+- Statistics and probability
+- Math 
+
+## Projects  
+Here is a list of my [projects](#).  
+
+## Socials  
+- 🔗 [LinkedIn](#)    
