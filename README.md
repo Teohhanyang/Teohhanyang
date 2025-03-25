@@ -24,7 +24,7 @@ Hello, I'm Han Yang 😄. Current Year 2 Mathematics and Data Science student fr
 ## Projects  
 Mortality and Pollution Analysis with R https://github.com/Teohhanyang/Mortality-and-Pollution-Analysis.git  
 
-Data Wrangling with Python
+Android Devices Consumer Satisfaction with Python https://github.com/Teohhanyang/Android-Devices-Analysis
 
 ## Socials  
 - 🔗 [LinkedIn](#)    
